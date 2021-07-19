@@ -1,6 +1,6 @@
 # Pomodachi: A Hardware Pomodoro Timer Virtual Pet
 
-![](docs/look_Around.gif)
+![](docs/look_around.gif)
 
 ## What?
 Pomo is a cute little buddy on your desk to help motivate you to work hard in concentrated bursts of productivity with small breaks in between. Feed Pomo by completing a set of timed work legs in a row. Give him food during downtime. Keep up a configurable goal rate of work for Pomo to keep him healthy.
